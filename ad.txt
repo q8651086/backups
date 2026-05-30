@@ -1,5 +1,6 @@
 ||cdn.bncloudfl.com^
 ||cdn-msp.jmdanjonproxy.xyz^
 ||cdn-msp2.jmapiproxy1.cc^
+||cdn-msp2.jmapiproxy3.cc^
 ||cdn-msp3.jmapiproxy3.cc^
 ||cdn-msp3.jmdanjonproxy.vip^
